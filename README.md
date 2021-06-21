@@ -2,9 +2,9 @@
 
 ##Basics of Audio Signal Processing 
 (For this task the answer must be submitted as a GitHub repository containing a google colab notebook and all the files required to run the colab notebook)
-[]Create a Colab Notebook.
-[]Load an mp3 file into the colab notebook.
-[]Plot the waveform of the audio in the notebook.
+-[]Create a Colab Notebook.
+-[]Load an mp3 file into the colab notebook.
+-[]Plot the waveform of the audio in the notebook.
 []Plot a stft spectrogram of the audio file.
 []Plot a melspectrogram of the audio file.
 []Compute the duration in seconds of the audio file.
