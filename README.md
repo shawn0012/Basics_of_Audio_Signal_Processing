@@ -5,7 +5,7 @@
 01. - [x] Create a Colab Notebook. 
 02. - [x] Load an mp3 file into the colab notebook.
 03. - [x] Plot the waveform of the audio in the notebook.
-04. - [ ] Plot a stft spectrogram of the audio file.
+04. - [x] Plot a stft spectrogram of the audio file.
 05. - [ ] Plot a melspectrogram of the audio file.
 06. - [ ] Compute the duration in seconds of the audio file.
 07. - [ ] Playback the audio file so we can listen to it in the notebook.
