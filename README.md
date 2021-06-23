@@ -6,7 +6,7 @@
 02. - [x] Load an mp3 file into the colab notebook.
 03. - [x] Plot the waveform of the audio in the notebook.
 04. - [x] Plot a stft spectrogram of the audio file.
-05. - [ ] Plot a melspectrogram of the audio file.
+05. - [x] Plot a melspectrogram of the audio file.
 06. - [ ] Compute the duration in seconds of the audio file.
 07. - [ ] Playback the audio file so we can listen to it in the notebook.
 08. - [ ] Create a low pass filter with a cut frequency of 2kHz and attenuation of 60 dB in the stop band and a maximum passband ripple of 1dB. (you can use any kind of filter, design technique or algorithm you want).
