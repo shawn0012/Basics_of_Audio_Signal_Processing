@@ -14,7 +14,7 @@
 10. - [x] Plot the filter impulse response.
 11. - [x] Filter the audio file using the designed filter.
 12. - [x] Playback the filtered signal so we can listen to it in the notebook.
-13. - [ ] Plot the stft spectrogram of the filtered signal.
-14. - [ ] Save the filter parameters in a file so they can be shared.
-15. - [ ] Save the filtered audio signal as a numpy array in a file.
-16. - [ ] Upload the notebook, the numpy array filtered audio file and the file with the filter parameters in the github repository of the project.
+13. - [x] Plot the stft spectrogram of the filtered signal.
+14. - [x] Save the filter parameters in a file so they can be shared.
+15. - [x] Save the filtered audio signal as a numpy array in a file.
+16. - [x] Upload the notebook, the numpy array filtered audio file and the file with the filter parameters in the github repository of the project.
