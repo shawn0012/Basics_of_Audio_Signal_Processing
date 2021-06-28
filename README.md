@@ -12,8 +12,8 @@
 08. - [x] Create a low pass filter with a cut frequency of 2kHz and attenuation of 60 dB in the stop band and a maximum passband ripple of 1dB. (you can use any kind of filter, design technique or algorithm you want).
 09. - [x] Plot the filter frequency response. (magnitude and phase).
 10. - [x] Plot the filter impulse response.
-11. - [ ] Filter the audio file using the designed filter.
-12. - [ ] Playback the filtered signal so we can listen to it in the notebook.
+11. - [x] Filter the audio file using the designed filter.
+12. - [x] Playback the filtered signal so we can listen to it in the notebook.
 13. - [ ] Plot the stft spectrogram of the filtered signal.
 14. - [ ] Save the filter parameters in a file so they can be shared.
 15. - [ ] Save the filtered audio signal as a numpy array in a file.
