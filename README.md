@@ -10,8 +10,8 @@
 06. - [x] Compute the duration in seconds of the audio file.
 07. - [x] Playback the audio file so we can listen to it in the notebook.
 08. - [x] Create a low pass filter with a cut frequency of 2kHz and attenuation of 60 dB in the stop band and a maximum passband ripple of 1dB. (you can use any kind of filter, design technique or algorithm you want).
-09. - [ ] Plot the filter frequency response. (magnitude and phase).
-10. - [ ] Plot the filter impulse response.
+09. - [x] Plot the filter frequency response. (magnitude and phase).
+10. - [x] Plot the filter impulse response.
 11. - [ ] Filter the audio file using the designed filter.
 12. - [ ] Playback the filtered signal so we can listen to it in the notebook.
 13. - [ ] Plot the stft spectrogram of the filtered signal.
